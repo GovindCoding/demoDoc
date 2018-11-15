@@ -1,0 +1,8 @@
+{
+  "source": "./service",
+  "destination": "./docs",
+  "includes": ["\\.jsx?$"],
+	"plugins": [
+    {"name": "esdoc-publish-html-plugin"}
+  ]
+}
